@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/app/app.rb": [
+      "/Users/colinscally/Projects/bookmark/bookmark2/app/app.rb": [
         1,
         1,
         null,
@@ -17,6 +17,9 @@
         1,
         2,
         2,
+        2,
+        2,
+        2,
         null,
         null,
         1,
@@ -25,7 +28,30 @@
         null,
         null
       ],
-      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/spec/features/creating_links_spec.rb": [
+      "/Users/colinscally/Projects/bookmark/bookmark2/app/data_mapper_setup.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1
+      ],
+      "/Users/colinscally/Projects/bookmark/bookmark2/app/models/tag.rb": [
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/colinscally/Projects/bookmark/bookmark2/spec/features/creating_links_spec.rb": [
         1,
         1,
         1,
@@ -53,7 +79,7 @@
         null,
         null
       ],
-      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/spec/features/feature_spec.rb": [
+      "/Users/colinscally/Projects/bookmark/bookmark2/spec/features/feature_spec.rb": [
         1,
         1,
         1,
@@ -67,6 +93,6 @@
         null
       ]
     },
-    "timestamp": 1496245496
+    "timestamp": 1496249303
   }
 }

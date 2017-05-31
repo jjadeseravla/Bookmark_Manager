@@ -1,14 +1,10 @@
-
 require 'data_mapper'
 require 'dm-postgres-adapter'
 
-DataMapper::Logger.new($stdout, :debug)
+require_relative 'models/link'
+require_relative 'models/tag'
 
-class Tag
-  include DataMapper::Resource
-  property :id, Serial
-  property :tag, String
-end
+DataMapper::Logger.new($stdout, :debug)
 
 DataMapper.setup(:default, ENV['DATABASE_URL'] || "postgres://localhost/bookmark_manager_#{ENV['RACK_ENV']}")
 DataMapper.finalize
