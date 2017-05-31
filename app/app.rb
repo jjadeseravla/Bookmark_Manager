@@ -16,5 +16,4 @@ class BookmarkManager < Sinatra::Base
     Link.create(url: params[:url], title: params[:title])
     redirect '/'
   end
-
 end
