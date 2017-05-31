@@ -1,8 +1,11 @@
+
+ENV["RACK_ENV"] = 'test'
 require 'capybara/rspec'
 require './app/models/link'
 require 'simplecov'
 require 'database_cleaner'
 require 'simplecov-console'
+
 
 SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
   SimpleCov::Formatter::Console,
@@ -38,9 +41,6 @@ RSpec.configure do |config|
   end
 
 end
-
-
-ENV['RACK_ENV'] = 'test'
 
 require File.join(File.dirname(__FILE__), '..', 'app/app.rb')
 # require_relative './features/web_helpers'

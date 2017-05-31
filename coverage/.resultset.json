@@ -1,8 +1,10 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/colinscally/Projects/bookmark/bookmark2/app/app.rb": [
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/app/app.rb": [
         1,
+        1,
+        null,
         1,
         null,
         1,
@@ -23,7 +25,7 @@
         null,
         null
       ],
-      "/Users/colinscally/Projects/bookmark/bookmark2/spec/features/creating_links_spec.rb": [
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/spec/features/creating_links_spec.rb": [
         1,
         1,
         1,
@@ -38,7 +40,7 @@
         null,
         null
       ],
-      "/Users/colinscally/Projects/bookmark/bookmark2/spec/features/feature_spec.rb": [
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/spec/features/feature_spec.rb": [
         1,
         1,
         1,
@@ -52,6 +54,6 @@
         null
       ]
     },
-    "timestamp": 1496238253
+    "timestamp": 1496241045
   }
 }
