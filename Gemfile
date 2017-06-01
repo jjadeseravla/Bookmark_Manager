@@ -6,6 +6,7 @@ gem 'sinatra'
 gem 'database_cleaner'
 gem 'simplecov'
 gem 'simplecov-console'
+gem 'rake'
 
 group :test do
   gem 'capybara'

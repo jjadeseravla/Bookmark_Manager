@@ -83,6 +83,7 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
+    rake (12.0.0)
     rspec (3.6.0)
       rspec-core (~> 3.6.0)
       rspec-expectations (~> 3.6.0)
@@ -124,10 +125,11 @@ DEPENDENCIES
   data_mapper
   database_cleaner
   dm-postgres-adapter
+  rake
   rspec
   simplecov
   simplecov-console
   sinatra
 
 BUNDLED WITH
-   1.14.6
+   1.15.0
