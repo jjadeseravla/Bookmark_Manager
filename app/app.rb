@@ -29,4 +29,12 @@ class BookmarkManager < Sinatra::Base
     erb :index
   end
 
+  get '/signup' do
+    erb :signup
+  end
+
+  post '/signup' do
+    redirect '/'
+  end
+
 end
