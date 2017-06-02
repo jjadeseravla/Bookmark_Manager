@@ -4,8 +4,9 @@ feature 'allow user to signup' do
     fill_in('email', with: 'mail@mail.com')
     fill_in('password', with: 'password')
     click_button('Sign Up')
-    
-    expect(User.first(email: 'mail@mail.com')).to eq 'mail@mail.com'
+    # user = User.create(email: 'mail@mail.com')
+    # p user.email
+    expect(page).to have_content('mail@mail.com')
+
   end
 end
-
