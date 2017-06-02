@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'bcrypt'
 gem 'rake'
 gem 'data_mapper'
 gem 'dm-postgres-adapter'
