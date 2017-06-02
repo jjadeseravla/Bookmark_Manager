@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/daniele/Git/Projects/Bookmark_Manager/app/app.rb": [
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/app/app.rb": [
         1,
         null,
         1,
@@ -43,10 +43,11 @@
         null,
         null
       ],
-      "/Users/daniele/Git/Projects/Bookmark_Manager/app/data_mapper_setup.rb": [
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/app/data_mapper_setup.rb": [
         1,
         1,
         null,
+        1,
         1,
         1,
         null,
@@ -56,7 +57,7 @@
         1,
         1
       ],
-      "/Users/daniele/Git/Projects/Bookmark_Manager/app/models/tag.rb": [
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/app/models/tag.rb": [
         1,
         null,
         null,
@@ -70,35 +71,20 @@
         null,
         null
       ],
-      "/Users/daniele/Git/Projects/Bookmark_Manager/spec/features/creating_links_spec.rb": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/app/models/user.rb": [
+        null,
         1,
         null,
         1,
         1,
         null,
-        null,
-        null,
         1,
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        1,
-        1,
-        null,
-        null,
         null
       ],
-      "/Users/daniele/Git/Projects/Bookmark_Manager/spec/features/feature_spec.rb": [
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/spec/features/creating_links_spec.rb": [
+        1,
+        1,
         1,
         1,
         1,
@@ -109,11 +95,7 @@
         1,
         null,
         null,
-        null
-      ],
-      "/Users/daniele/Git/Projects/Bookmark_Manager/spec/features/filter_by_tags_spec.rb": [
-        1,
-        1,
+        null,
         1,
         1,
         1,
@@ -128,7 +110,37 @@
         null,
         null
       ],
-      "/Users/daniele/Git/Projects/Bookmark_Manager/spec/features/multiple_tags_spec.rb": [
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/spec/features/feature_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/spec/features/filter_by_tags_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/spec/features/multiple_tags_spec.rb": [
         1,
         1,
         1,
@@ -143,7 +155,7 @@
         null,
         null
       ],
-      "/Users/daniele/Git/Projects/Bookmark_Manager/spec/features/user_login_spec.rb": [
+      "/Users/jadealvares/Documents/MakersProjects/MyWeek4/bookmark_manager/spec/features/user_login_spec.rb": [
         1,
         1,
         1,
@@ -157,6 +169,6 @@
         null
       ]
     },
-    "timestamp": 1496333016
+    "timestamp": 1496397376
   }
 }
